@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorptringify",
+        "uuid": 539550,
+        "checksum": "ric46d"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
